@@ -1,0 +1,38 @@
+# sale
+X makes an offer. The offer concerns a good exchanged for a certain amount of money. Y accepts the offer. Y pays the money. X delivers the good.
+# failed sale 1
+X makes an offer. The offer concerns a good exchanged for a certain amount of money. Nobody accepts the offer.
+# failed sale 2 (is it a theft?)
+X makes an offer. The offer concerns a good exchanged for a certain amount of money. Y accepts the offer. Y pays the money. X does not deliver.
+# complicated sale
+X buys a good from Y. Y sends the good to X. The good does not arrive. X complains to Y. The good arrives in the meanwhile.
+# complicated sale 2
+X buys a good from Y. Y sends the good to X. The good does not arrive. X complains to Y. Y asks to wait some says more. The good does not arrive. X complains to Y, again. Y sends another good to X.
+# gift
+X wishes a certain good. Y gives that good to him.
+# swap
+X makes an offer. The offer concerns a good exchanged for another good. Y accepts the offer. X delivers the good. Y delivers the other good.
+# swap evasion scheme
+Goods of type A and B usually cost a certain price. When you sell a good of type A or B you have to pay taxes on it. X sells a good A to Y for half of the normal price. Y sells a good B to X for half of the normal price.
+# loan
+X needs a certain good. Y lends that good to him. X gives the good back to X.
+# theft
+X owns a certain good. Y takes it with him
+# (false) theft
+X owns a car. Y takes it to bring someone to the urgencies. [theft is characterized by the intent of permanently deprive the owner of it]
+# not theft, but joyriding
+X owns a beautiful car. Y takes the car without consent, drives it for a spin and returns it where it was.
+# burglary
+X enters in the house of Y, in order to steal something. [burglary is characterized by entering without consent, with criminal intents]
+# rather theft
+Y invites X to his house. X enters in the house of Y, in order to steal something
+# false burglary
+X enters in the house of Y, as the building was in flame and was trying an escape.
+# successful robbery
+Y is cashier at the supermarket. X threatens to shoot Y unless he hands over the loot. Y hands over the loot.
+# unsuccessful robbery
+Y is cashier at the supermarket. X threatens to shoot Y unless he hands over the loot. Y says there is no money, it is too early. X sees that there is no money, and runs.
+# invitation to offer
+X offers Y to sell a good for a certain amount of money. Y accepts and sells the good to X.
+# extortion
+X threats Y to sell a good for a certain amount of money. Y sell the good to X.
