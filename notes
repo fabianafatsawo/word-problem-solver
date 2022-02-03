@@ -1,0 +1,29 @@
+model: 20220109165331
+correct calculation = 0.0, total = 0.0
+correct ace translation = 0.1266110689916603
+semantic similarity = 0.8125870000624674
+string similarity = 124.06595905989386
+
+
+
+model: 20220124114420
+correct calculation = 0.0, total = 0.0
+correct ace translation = 0.1175132676269901
+semantic similarity = 0.8203829045183646
+string similarity = 124.25094768764215
+
+train
+correct calculation = 0.0, total = 0.0
+correct ace translation = 0.11869396494045226
+semantic similarity = 0.821835311926043
+string similarity = 120.61514786564967
+
+Correct ACE semantic similarity 
+
+APE referencing 1 noun back, all possible options.
+
+NL-> cnl with example
+
+
+
+\’ \` 
