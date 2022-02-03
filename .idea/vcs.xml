@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Experiments/math_problem_NLtoACE_BART" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/LaTeX-template" vcs="Git" />
   </component>
 </project>
